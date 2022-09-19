@@ -5,7 +5,6 @@ import boardgame as bg
 
 if __name__ == '__main__':
     #Define my socket address information
-    #Piazza mentioned allowing us to hard code client address & port:
     clientAddress = '127.0.0.1'
     clientPort = 12000
     #Create a socket object on my server
