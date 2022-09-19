@@ -1,6 +1,6 @@
-# TicTacToe
+# Overview
 This is a Python-shell-based game that you will initially be able to play on your own computer, but will extend so that you can play via the Internet by connecting to a central, shared server. 
-Game moves are sent over from the client via TCP sockets to communicate across machines.
+Game moves are sent over from the client via TCP sockets to communicate across machines using threading.
 
 # GUI
 A 3x3 gameboard was created using Tkinter (the standard Python interface to the Tk GUI toolkit).
